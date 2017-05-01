@@ -1,0 +1,43 @@
+ID,Beneficiary Type,
+1,Individuals,
+1.1,Individuals,General Public
+1.2,Individuals,Pre-fives
+1.3,Individuals,Children <12
+1.4,Individuals,Young People 12+
+1.5,Individuals,Parents
+1.6,Individuals,Lone Parents
+1.7,Individuals,Women
+1.8,Individuals,Men
+1.9,Individuals,LGBT
+1.10,Individuals,Older people
+1.11,Individuals,Minority Ethnic / Black
+1.12,Individuals,Minority Ethnic Group (white)
+1.13,Individuals,Refugees & Asylum Seekers
+1.14,Individuals,Travellers & Gypsies
+1.15,Individuals,Faith & Religious Communities
+1.16,Individuals,Gaelic Speakers
+1.17,Individuals,Disabled / Impaired people
+1.18,Individuals,People with Learning Difficulties
+1.19,Individuals,People with Mental Health problems
+1.20,Individuals,People with ill-health
+1.21,Individuals,HIV / AIDS
+1.22,Individuals,People in or leaving Care
+1.23,Individuals,Isolated (geographically)
+1.24,Individuals,Isolated (socially)
+1.25,Individuals,Low-income Households
+1.26,Individuals,Residents of disadvantaged areas
+1.27,Individuals,Literacy needs / lack of formal qualifications
+1.28,Individuals,Unemployed
+1.29,Individuals,Homeless People
+1.30,Individuals,Offenders / Ex-offenders
+1.31,Individuals,Drug / Alcohol Misusers
+1.32,Individuals,Victims of Crime
+1.33,Individuals,Victims of Abuse
+1.34,Individuals,Carers
+1.35,Individuals,Volunteers
+2,Institutions,
+2.1,Institutions,Voluntary Organisations
+2.2,Institutions,Private Institutions
+2.3,Institutions,Public Institutions
+3,Environment,
+9,Not Known,
