@@ -1,5 +1,5 @@
 SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Field of Work
-1,Education and research,,,Group 2: Education and Research,,
+1,Education and research,,,Group 2: Education and Research,2000,Education and research
 1.1,Education and research,Primary and Secondary Education,,2 100,2100,Primary and Secondary Education
 1.1.1,Education and research,Primary and Secondary Education,"Elementary, Primary and Secondary Education",2 100,2110,"Elementary, Primary and Secondary Education"
 1.2,Education and research,Higher Education,,2 200,2200,Higher Education
@@ -11,7 +11,7 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 1.4.1,Education and research,Research,Medical Research (in house),2 400,2410,Medical Research (in house)
 1.4.2,Education and research,Research,Science & Technology,2 400,2420,Science & Technology
 1.4.3,Education and research,Research,Social Sciences & Policy Studies,2 400,2430,Social Sciences & Policy Studies
-2,Health care,,,Group 3: Health,,
+2,Health care,,,Group 3: Health,3000,Health care
 2.1,Health care,Hospitals and Rehabilitation,,3 100,3100,Hospitals and Rehabilitation
 2.1.1,Health care,Hospitals and Rehabilitation,Hospitals & Rehabilitation,3 100,3110,Hospitals & Rehabilitation
 2.2,Health care,Nursing Homes,,3 200,3200,Nursing Homes
@@ -24,7 +24,7 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 2.4.2,Health care,Other Health Services,"Health Treatment, Primary Outpatient",3 400,3420,"Health Treatment, Primary Outpatient"
 2.4.3,Health care,Other Health Services,Rehabilitative Medical Services,3 400,3430,Rehabilitative Medical Services
 2.4.4,Health care,Other Health Services,Emergency Medical Services,3 400,3440,Emergency Medical Services
-3,Social care and development,,,Group 4: Social Services,,
+3,Social care and development,,,Group 4: Social Services,4000,Social care and development
 3.1,Social care and development,Social Services,,4 100,4100,Social Services
 3.1.1,Social care and development,Social Services,Services for children and families,4 100,4110,Services for children and families
 3.1.2,Social care and development,Social Services,Services for elderly people,4 100,4120,Services for elderly people
@@ -43,7 +43,7 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 4,Accommodation,,,Group 6: Development and Housing,,
 4.1,Accommodation,Accommodation,,6 200,6200,Accommodation
 4.1.1,Accommodation,Accommodation,Accommodation including Housing Associations,6 200,6210,Housing Associations
-5,Culture and recreation,,,Group 1: Culture and Recreation,,
+5,Culture and recreation,,,Group 1: Culture and Recreation,1000,Culture and recreation
 5.1,Culture and recreation,Culture,,1 100,1100,Culture
 5.1.1,Culture and recreation,Culture,Media & Communication,1 100,1110,Media & Communication
 5.1.2,Culture and recreation,Culture,"Visual Arts, Architecture, Ceramic Arts, Performing Arts",1 100,1120,"Visual Arts, Architecture, Ceramic Arts, Performing Arts"
@@ -53,11 +53,11 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 5.2.1,Culture and recreation,Recreation,"Sports Clubs, Recreation & social Clubs",1 200,1210,Sports Clubs
 5.3,Culture and recreation,Service Clubs,,1 300,1300,Service Clubs
 5.3.1,Culture and recreation,Service Clubs,Welfare Clubs,1 300,1310,Welfare Clubs
-6,Religious activities,,,Group 10: Religion,,
+6,Religious activities,,,Group 10: Religion,10000,Religious activities
 6.1,Religious activities,Religious activities,,10 100,10100,Religious activities
 6.1.1,Religious activities,Religious activities,"Congregations, e.g. Churches. Mosques",10 100,10110,"Congregations, e.g. Churches. Mosques"
 6.1.2,Religious activities,Religious activities,Associations of Congregations,10 100,10120,Associations of Congregations
-7,Economic development,,,Group 6: Development and Housing,,
+7,Economic development,,,Group 6: Development and Housing,6000,Economic development
 7.1,Economic development,"Economic, Community and Social Development",,6 100,6100,"Economic, Community and Social Development"
 7.1.1,Economic development,"Economic, Community and Social Development",Community & Neighbourhood Organisations,6 100,6110,Community & Neighbourhood Organisations
 7.1.2,Economic development,"Economic, Community and Social Development",Economic Development,6 100,6120,Economic Development
@@ -66,7 +66,7 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 7.2.1,Economic development,Employment and Training,Job Training Programmes,6 300,6310,Job Training Programmes
 7.2.2,Economic development,Employment and Training,Vocational Counselling & Guidance,6 300,6320,Vocational Counselling & Guidance
 7.2.3,Economic development,Employment and Training,Vocational Rehabilitation & Sheltered Workshops,6 300,6330,Vocational Rehabilitation & Sheltered Workshops
-8,Environment and animals,,,Group 5: Environment,,
+8,Environment and animals,,,Group 5: Environment,5000,Environment and animals
 8.1,Environment and animals,Environment,,5 100,5100,Environment
 8.1.1,Environment and animals,Environment,Pollution Abatement & control,5 100,5110,Pollution Abatement & control
 8.1.2,Environment and animals,Environment,Natural Resources Conservation and Protection,5 100,5120,Natural Resources Conservation and Protection
@@ -75,13 +75,13 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 8.2.1,Environment and animals,Animals,Animal Protection & Welfare,5 200,5210,Animal Protection & Welfare
 8.2.2,Environment and animals,Animals,Wildlife Preservation & Protection,5 200,5220,Wildlife Preservation & Protection
 8.2.3,Environment and animals,Animals,Veterinary Services,5 200,5230,Veterinary Services
-9,"Business and professional associations, unions",,,"Group 11: Business and Professional Associations, Unions",,
+9,"Business and professional associations, unions",,,"Group 11: Business and Professional Associations, Unions",11000,"Business and professional associations, unions"
 9.1,"Business and professional associations, unions","Business and professional associations, unions",,11 100,11100,"Business and professional associations, unions"
 9.1.1,"Business and professional associations, unions","Business and professional associations, unions",Business Associations,11 100,11110,Business Associations
 9.1.2,"Business and professional associations, unions","Business and professional associations, unions",Professional Associations,11 200,11120,Professional Associations
 9.1.3,"Business and professional associations, unions","Business and professional associations, unions",Labour Unions,11 300,11130,Labour Unions
-10,"Law, advocacy and politics",,,"Group 7: Law, Advocacy and Politics",,
-10.1,"Law, advocacy and politics","Business and professional associations, unions",,7 100,7100,"Business and professional associations, unions"
+10,"Law, advocacy and politics",,,"Group 7: Law, Advocacy and Politics",7000,"Law, advocacy and politics"
+10.1,"Law, advocacy and politics",Civic and Advocacy Organisations,,7 100,7100,Civic and Advocacy Organisations
 10.1.1,"Law, advocacy and politics",Civic and Advocacy Organisations,Advocacy Organisations,7 100,7110,Advocacy Organisations
 10.1.2,"Law, advocacy and politics",Civic and Advocacy Organisations,Civil Rights Associations,7 100,7120,Civil Rights Associations
 10.1.3,"Law, advocacy and politics",Civic and Advocacy Organisations,Civic Associations,7 100,7130,Civic Associations
@@ -94,6 +94,6 @@ SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Fiel
 10.2.5,"Law, advocacy and politics",Law and Legal Services,Consumer Protection associations,7 200,7250,Consumer Protection associations
 10.3,"Law, advocacy and politics",Political Organisations,,7 300,7300,Political Organisations
 10.3.1,"Law, advocacy and politics",Political Organisations,Political Parties & Organisations,7 300,7310,Political Parties & Organisations
-11,General Charitable Purposes,,,Group 12: Not Elsewhere Classified,,
+11,General Charitable Purposes,,,Group 12: Not Elsewhere Classified,12000,General Charitable Purposes
 11.1,General Charitable Purposes,Not Elsewhere Classified,,12 100,12100,Not Elsewhere Classified
 999,Not Known,Not Elsewhere Classified,,12 100,12999,Not Known
