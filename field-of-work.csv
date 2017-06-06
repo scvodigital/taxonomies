@@ -1,99 +1,99 @@
-SCVO-ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO,SCNPO,SCNPO Field of Work
-1,Education and research,,,Group 2: Education and Research,2000,Education and research
-1.1,Education and research,Primary and Secondary Education,,2 100,2100,Primary and Secondary Education
-1.1.1,Education and research,Primary and Secondary Education,"Elementary, Primary and Secondary Education",2 100,2110,"Elementary, Primary and Secondary Education"
-1.2,Education and research,Higher Education,,2 200,2200,Higher Education
-1.2.1,Education and research,Higher Education,Higher Education (University Level),2 200,2210,Higher Education (University Level)
-1.3,Education and research,Other Education,,2 300,2300,Other Education
-1.3.1,Education and research,Other Education,"Vocational, Technical Schools",2 300,2310,"Vocational, Technical Schools"
-1.3.2,Education and research,Other Education,Adult / Continuing Education,2 300,2320,Adult / Continuing Education
-1.4,Education and research,Research,,2 400,2400,Research
-1.4.1,Education and research,Research,Medical Research (in house),2 400,2410,Medical Research (in house)
-1.4.2,Education and research,Research,Science & Technology,2 400,2420,Science & Technology
-1.4.3,Education and research,Research,Social Sciences & Policy Studies,2 400,2430,Social Sciences & Policy Studies
-2,Health care,,,Group 3: Health,3000,Health care
-2.1,Health care,Hospitals and Rehabilitation,,3 100,3100,Hospitals and Rehabilitation
-2.1.1,Health care,Hospitals and Rehabilitation,Hospitals & Rehabilitation,3 100,3110,Hospitals & Rehabilitation
-2.2,Health care,Nursing Homes,,3 200,3200,Nursing Homes
-2.3,Health care,Mental Health and Crisis Intervention,,3 300,3300,Mental Health and Crisis Intervention
-2.3.1,Health care,Mental Health and Crisis Intervention,Psychiatric Hospitals,3 300,3310,Psychiatric Hospitals
-2.3.2,Health care,Mental Health and Crisis Intervention,Mental Health Treatment,3 300,3320,Mental Health Treatment
-2.3.3,Health care,Mental Health and Crisis Intervention,Crisis Intervention,3 300,3330,Crisis Intervention
-2.4,Health care,Other Health Services,,3 400,3400,Other Health Services
-2.4.1,Health care,Other Health Services,Public Health & Wellness Education,3 400,3410,Public Health & Wellness Education
-2.4.2,Health care,Other Health Services,"Health Treatment, Primary Outpatient",3 400,3420,"Health Treatment, Primary Outpatient"
-2.4.3,Health care,Other Health Services,Rehabilitative Medical Services,3 400,3430,Rehabilitative Medical Services
-2.4.4,Health care,Other Health Services,Emergency Medical Services,3 400,3440,Emergency Medical Services
-3,Social care and development,,,Group 4: Social Services,4000,Social care and development
-3.1,Social care and development,Social Services,,4 100,4100,Social Services
-3.1.1,Social care and development,Social Services,Services for children and families,4 100,4110,Services for children and families
-3.1.2,Social care and development,Social Services,Services for elderly people,4 100,4120,Services for elderly people
-3.1.3,Social care and development,Social Services,Services for people with disabilities,4 100,4130,Services for people with disabilities
-3.1.4,Social care and development,Social Services,Services for women,4 100,4140,Services for women
-3.1.5,Social care and development,Social Services,Carer's organisations,4 100,4150,Carer's organisations
-3.1.6,Social care and development,Social Services,Pre-school daycare,4 100,4160,Pre-school daycare
-3.1.7,Social care and development,Social Services,Mainstream youth development,4 100,4170,Mainstream youth development
-3.1.8,Social care and development,Social Services,"Other Social Services, inc.multiple client groups",4 100,4180,"Other Social Services, including multiple client groups"
-3.2,Social care and development,Emergency and Relief,,4 200,4200,Emergency and Relief
-3.2.1,Social care and development,Emergency and Relief,Refugee and Immigrant social services,4 200,4210,Refugee and Immigrant social services
-3.2.2,Social care and development,Emergency and Relief,Disaster/emergency prevention and control,4 200,4220,Disaster/emergency prevention and control
-3.2.3,Social care and development,Emergency and Relief,Temporary Shelters,4 200,4230,Temporary Shelters
-3.3,Social care and development,Income Support and Maintenance,,4 300,4300,Income Support and Maintenance
-3.3.1,Social care and development,Income Support and Maintenance,"Income support & Maintenance, Material Assistance",4 300,4310,Income support & Maintenance
-4,Accommodation,,,Group 6: Development and Housing,,
-4.1,Accommodation,Accommodation,,6 200,6200,Accommodation
-4.1.1,Accommodation,Accommodation,Accommodation including Housing Associations,6 200,6210,Housing Associations
-5,Culture and recreation,,,Group 1: Culture and Recreation,1000,Culture and recreation
-5.1,Culture and recreation,Culture,,1 100,1100,Culture
-5.1.1,Culture and recreation,Culture,Media & Communication,1 100,1110,Media & Communication
-5.1.2,Culture and recreation,Culture,"Visual Arts, Architecture, Ceramic Arts, Performing Arts",1 100,1120,"Visual Arts, Architecture, Ceramic Arts, Performing Arts"
-5.1.3,Culture and recreation,Culture,"Historical, Literary and Humanistic Societies",1 100,1130,"Historical, Literary and Humanistic Societies"
-5.1.4,Culture and recreation,Culture,"Museums, Zoos & Aquariums",1 100,1140,"Museums, Zoos & Aquariums"
-5.2,Culture and recreation,Recreation,,1 300,1200,Recreation
-5.2.1,Culture and recreation,Recreation,"Sports Clubs, Recreation & social Clubs",1 200,1210,Sports Clubs
-5.3,Culture and recreation,Service Clubs,,1 300,1300,Service Clubs
-5.3.1,Culture and recreation,Service Clubs,Welfare Clubs,1 300,1310,Welfare Clubs
-6,Religious activities,,,Group 10: Religion,10000,Religious activities
-6.1,Religious activities,Religious activities,,10 100,10100,Religious activities
-6.1.1,Religious activities,Religious activities,"Congregations, e.g. Churches. Mosques",10 100,10110,"Congregations, e.g. Churches. Mosques"
-6.1.2,Religious activities,Religious activities,Associations of Congregations,10 100,10120,Associations of Congregations
-7,Economic development,,,Group 6: Development and Housing,6000,Economic development
-7.1,Economic development,"Economic, Community and Social Development",,6 100,6100,"Economic, Community and Social Development"
-7.1.1,Economic development,"Economic, Community and Social Development",Community & Neighbourhood Organisations,6 100,6110,Community & Neighbourhood Organisations
-7.1.2,Economic development,"Economic, Community and Social Development",Economic Development,6 100,6120,Economic Development
-7.1.3,Economic development,"Economic, Community and Social Development",Social Development,6 100,6130,Social Development
-7.2,Economic development,Employment and Training,,6 300,6300,Employment and Training
-7.2.1,Economic development,Employment and Training,Job Training Programmes,6 300,6310,Job Training Programmes
-7.2.2,Economic development,Employment and Training,Vocational Counselling & Guidance,6 300,6320,Vocational Counselling & Guidance
-7.2.3,Economic development,Employment and Training,Vocational Rehabilitation & Sheltered Workshops,6 300,6330,Vocational Rehabilitation & Sheltered Workshops
-8,Environment and animals,,,Group 5: Environment,5000,Environment and animals
-8.1,Environment and animals,Environment,,5 100,5100,Environment
-8.1.1,Environment and animals,Environment,Pollution Abatement & control,5 100,5110,Pollution Abatement & control
-8.1.2,Environment and animals,Environment,Natural Resources Conservation and Protection,5 100,5120,Natural Resources Conservation and Protection
-8.1.3,Environment and animals,Environment,Environmental Beautification & Open spaces,5 100,5130,Environmental Beautification & Open spaces
-8.2,Environment and animals,Animals,,5 200,5200,Animals
-8.2.1,Environment and animals,Animals,Animal Protection & Welfare,5 200,5210,Animal Protection & Welfare
-8.2.2,Environment and animals,Animals,Wildlife Preservation & Protection,5 200,5220,Wildlife Preservation & Protection
-8.2.3,Environment and animals,Animals,Veterinary Services,5 200,5230,Veterinary Services
-9,"Business and professional associations, unions",,,"Group 11: Business and Professional Associations, Unions",11000,"Business and professional associations, unions"
-9.1,"Business and professional associations, unions","Business and professional associations, unions",,11 100,11100,"Business and professional associations, unions"
-9.1.1,"Business and professional associations, unions","Business and professional associations, unions",Business Associations,11 100,11110,Business Associations
-9.1.2,"Business and professional associations, unions","Business and professional associations, unions",Professional Associations,11 200,11120,Professional Associations
-9.1.3,"Business and professional associations, unions","Business and professional associations, unions",Labour Unions,11 300,11130,Labour Unions
-10,"Law, advocacy and politics",,,"Group 7: Law, Advocacy and Politics",7000,"Law, advocacy and politics"
-10.1,"Law, advocacy and politics",Civic and Advocacy Organisations,,7 100,7100,Civic and Advocacy Organisations
-10.1.1,"Law, advocacy and politics",Civic and Advocacy Organisations,Advocacy Organisations,7 100,7110,Advocacy Organisations
-10.1.2,"Law, advocacy and politics",Civic and Advocacy Organisations,Civil Rights Associations,7 100,7120,Civil Rights Associations
-10.1.3,"Law, advocacy and politics",Civic and Advocacy Organisations,Civic Associations,7 100,7130,Civic Associations
-10.1.4,"Law, advocacy and politics",Civic and Advocacy Organisations,Ethnic Associations,7 100,7140,Ethnic Associations
-10.2,"Law, advocacy and politics",Law and Legal Services,,7 200,7200,Law and Legal Services
-10.2.1,"Law, advocacy and politics",Law and Legal Services,Legal Services,7 200,7210,Legal Services
-10.2.2,"Law, advocacy and politics",Law and Legal Services,Crime Prevention & Public Safety,7 200,7220,Crime Prevention & Public Safety
-10.2.3,"Law, advocacy and politics",Law and Legal Services,Rehabilitation of offenders,7 200,7230,Rehabilitation of offenders
-10.2.4,"Law, advocacy and politics",Law and Legal Services,Victim Support,7 200,7240,Victim Support
-10.2.5,"Law, advocacy and politics",Law and Legal Services,Consumer Protection associations,7 200,7250,Consumer Protection associations
-10.3,"Law, advocacy and politics",Political Organisations,,7 300,7300,Political Organisations
-10.3.1,"Law, advocacy and politics",Political Organisations,Political Parties & Organisations,7 300,7310,Political Parties & Organisations
-11,General Charitable Purposes,,,Group 12: Not Elsewhere Classified,12000,General Charitable Purposes
-11.1,General Charitable Purposes,Not Elsewhere Classified,,12 100,12100,Not Elsewhere Classified
-999,Not Known,Not Elsewhere Classified,,12 100,12999,Not Known
+SCNPO,SCNPO Group,SCNPO Field of Work,,Old SCVO ID,Group,Primary Area of Work,Secondary Area of Work,ICNPO
+1000,Culture and recreation,,,5,Culture and recreation,,,Group 1: Culture and Recreation
+1100,Culture and recreation,Culture,,5.1,Culture and recreation,Culture,,1 100
+1110,Culture and recreation,Media & Communication,,5.1.1,Culture and recreation,Culture,Media & Communication,1 100
+1120,Culture and recreation,"Visual Arts, Architecture, Ceramic Arts, Performing Arts",,5.1.2,Culture and recreation,Culture,"Visual Arts, Architecture, Ceramic Arts, Performing Arts",1 100
+1130,Culture and recreation,"Historical, Literary and Humanistic Societies",,5.1.3,Culture and recreation,Culture,"Historical, Literary and Humanistic Societies",1 100
+1140,Culture and recreation,"Museums, Zoos & Aquariums",,5.1.4,Culture and recreation,Culture,"Museums, Zoos & Aquariums",1 100
+1200,Culture and recreation,Recreation,,5.2,Culture and recreation,Recreation,,1 300
+1210,Culture and recreation,Sports Clubs,,5.2.1,Culture and recreation,Recreation,"Sports Clubs, Recreation & social Clubs",1 200
+1300,Culture and recreation,Service Clubs,,5.3,Culture and recreation,Service Clubs,,1 300
+1310,Culture and recreation,Welfare Clubs,,5.3.1,Culture and recreation,Service Clubs,Welfare Clubs,1 300
+2000,Education and research,,,1,Education and research,,,Group 2: Education and Research
+2100,Education and research,Primary and Secondary Education,,1.1,Education and research,Primary and Secondary Education,,2 100
+2110,Education and research,"Elementary, Primary and Secondary Education",,1.1.1,Education and research,Primary and Secondary Education,"Elementary, Primary and Secondary Education",2 100
+2200,Education and research,Higher Education,,1.2,Education and research,Higher Education,,2 200
+2210,Education and research,Higher Education (University Level),,1.2.1,Education and research,Higher Education,Higher Education (University Level),2 200
+2300,Education and research,Other Education,,1.3,Education and research,Other Education,,2 300
+2310,Education and research,"Vocational, Technical Schools",,1.3.1,Education and research,Other Education,"Vocational, Technical Schools",2 300
+2320,Education and research,Adult / Continuing Education,,1.3.2,Education and research,Other Education,Adult / Continuing Education,2 300
+2400,Education and research,Research,,1.4,Education and research,Research,,2 400
+2410,Education and research,Medical Research (in house),,1.4.1,Education and research,Research,Medical Research (in house),2 400
+2420,Education and research,Science & Technology,,1.4.2,Education and research,Research,Science & Technology,2 400
+2430,Education and research,Social Sciences & Policy Studies,,1.4.3,Education and research,Research,Social Sciences & Policy Studies,2 400
+3000,Health care,,,2,Health care,,,Group 3: Health
+3100,Health care,Hospitals and Rehabilitation,,2.1,Health care,Hospitals and Rehabilitation,,3 100
+3110,Health care,Hospitals & Rehabilitation,,2.1.1,Health care,Hospitals and Rehabilitation,Hospitals & Rehabilitation,3 100
+3200,Health care,Nursing Homes,,2.2,Health care,Nursing Homes,,3 200
+3300,Health care,Mental Health and Crisis Intervention,,2.3,Health care,Mental Health and Crisis Intervention,,3 300
+3310,Health care,Psychiatric Hospitals,,2.3.1,Health care,Mental Health and Crisis Intervention,Psychiatric Hospitals,3 300
+3320,Health care,Mental Health Treatment,,2.3.2,Health care,Mental Health and Crisis Intervention,Mental Health Treatment,3 300
+3330,Health care,Crisis Intervention,,2.3.3,Health care,Mental Health and Crisis Intervention,Crisis Intervention,3 300
+3400,Health care,Other Health Services,,2.4,Health care,Other Health Services,,3 400
+3410,Health care,Public Health & Wellness Education,,2.4.1,Health care,Other Health Services,Public Health & Wellness Education,3 400
+3420,Health care,"Health Treatment, Primary Outpatient",,2.4.2,Health care,Other Health Services,"Health Treatment, Primary Outpatient",3 400
+3430,Health care,Rehabilitative Medical Services,,2.4.3,Health care,Other Health Services,Rehabilitative Medical Services,3 400
+3440,Health care,Emergency Medical Services,,2.4.4,Health care,Other Health Services,Emergency Medical Services,3 400
+4000,Social care and development,,,3,Social care and development,,,Group 4: Social Services
+4100,Social care and development,Social Services,,3.1,Social care and development,Social Services,,4 100
+4110,Social care and development,Services for children and families,,3.1.1,Social care and development,Social Services,Services for children and families,4 100
+4120,Social care and development,Services for elderly people,,3.1.2,Social care and development,Social Services,Services for elderly people,4 100
+4130,Social care and development,Services for people with disabilities,,3.1.3,Social care and development,Social Services,Services for people with disabilities,4 100
+4140,Social care and development,Services for women,,3.1.4,Social care and development,Social Services,Services for women,4 100
+4150,Social care and development,Carer's organisations,,3.1.5,Social care and development,Social Services,Carer's organisations,4 100
+4160,Social care and development,Pre-school daycare,,3.1.6,Social care and development,Social Services,Pre-school daycare,4 100
+4170,Social care and development,Mainstream youth development,,3.1.7,Social care and development,Social Services,Mainstream youth development,4 100
+4180,Social care and development,"Other Social Services, including multiple client groups",,3.1.8,Social care and development,Social Services,"Other Social Services, inc.multiple client groups",4 100
+4200,Social care and development,Emergency and Relief,,3.2,Social care and development,Emergency and Relief,,4 200
+4210,Social care and development,Refugee and Immigrant social services,,3.2.1,Social care and development,Emergency and Relief,Refugee and Immigrant social services,4 200
+4220,Social care and development,Disaster/emergency prevention and control,,3.2.2,Social care and development,Emergency and Relief,Disaster/emergency prevention and control,4 200
+4230,Social care and development,Temporary Shelters,,3.2.3,Social care and development,Emergency and Relief,Temporary Shelters,4 200
+4300,Social care and development,Income Support and Maintenance,,3.3,Social care and development,Income Support and Maintenance,,4 300
+4310,Social care and development,Income support & Maintenance,,3.3.1,Social care and development,Income Support and Maintenance,"Income support & Maintenance, Material Assistance",4 300
+5000,Environment and animals,,,8,Environment and animals,,,Group 5: Environment
+5100,Environment and animals,Environment,,8.1,Environment and animals,Environment,,5 100
+5110,Environment and animals,Pollution Abatement & control,,8.1.1,Environment and animals,Environment,Pollution Abatement & control,5 100
+5120,Environment and animals,Natural Resources Conservation and Protection,,8.1.2,Environment and animals,Environment,Natural Resources Conservation and Protection,5 100
+5130,Environment and animals,Environmental Beautification & Open spaces,,8.1.3,Environment and animals,Environment,Environmental Beautification & Open spaces,5 100
+5200,Environment and animals,Animals,,8.2,Environment and animals,Animals,,5 200
+5210,Environment and animals,Animal Protection & Welfare,,8.2.1,Environment and animals,Animals,Animal Protection & Welfare,5 200
+5220,Environment and animals,Wildlife Preservation & Protection,,8.2.2,Environment and animals,Animals,Wildlife Preservation & Protection,5 200
+5230,Environment and animals,Veterinary Services,,8.2.3,Environment and animals,Animals,Veterinary Services,5 200
+6000,Economic development,,,7,Economic development,,,Group 6: Development and Housing
+6100,Economic development,"Economic, Community and Social Development",,7.1,Economic development,"Economic, Community and Social Development",,6 100
+6110,Economic development,Community & Neighbourhood Organisations,,7.1.1,Economic development,"Economic, Community and Social Development",Community & Neighbourhood Organisations,6 100
+6120,Economic development,Economic Development,,7.1.2,Economic development,"Economic, Community and Social Development",Economic Development,6 100
+6130,Economic development,Social Development,,7.1.3,Economic development,"Economic, Community and Social Development",Social Development,6 100
+,,,,4,Accommodation,,,Group 6: Development and Housing
+6200,Economic development,Accommodation,,4.1,Accommodation,Accommodation,,6 200
+6210,Economic development,Housing Associations,,4.1.1,Accommodation,Accommodation,Accommodation including Housing Associations,6 200
+6300,Economic development,Employment and Training,,7.2,Economic development,Employment and Training,,6 300
+6310,Economic development,Job Training Programmes,,7.2.1,Economic development,Employment and Training,Job Training Programmes,6 300
+6320,Economic development,Vocational Counselling & Guidance,,7.2.2,Economic development,Employment and Training,Vocational Counselling & Guidance,6 300
+6330,Economic development,Vocational Rehabilitation & Sheltered Workshops,,7.2.3,Economic development,Employment and Training,Vocational Rehabilitation & Sheltered Workshops,6 300
+7000,"Law, advocacy and politics",,,10,"Law, advocacy and politics",,,"Group 7: Law, Advocacy and Politics"
+7100,"Law, advocacy and politics",Civic and Advocacy Organisations,,10.1,"Law, advocacy and politics",Civic and Advocacy Organisations,,7 100
+7110,"Law, advocacy and politics",Advocacy Organisations,,10.1.1,"Law, advocacy and politics",Civic and Advocacy Organisations,Advocacy Organisations,7 100
+7120,"Law, advocacy and politics",Civil Rights Associations,,10.1.2,"Law, advocacy and politics",Civic and Advocacy Organisations,Civil Rights Associations,7 100
+7130,"Law, advocacy and politics",Civic Associations,,10.1.3,"Law, advocacy and politics",Civic and Advocacy Organisations,Civic Associations,7 100
+7140,"Law, advocacy and politics",Ethnic Associations,,10.1.4,"Law, advocacy and politics",Civic and Advocacy Organisations,Ethnic Associations,7 100
+7200,"Law, advocacy and politics",Law and Legal Services,,10.2,"Law, advocacy and politics",Law and Legal Services,,7 200
+7210,"Law, advocacy and politics",Legal Services,,10.2.1,"Law, advocacy and politics",Law and Legal Services,Legal Services,7 200
+7220,"Law, advocacy and politics",Crime Prevention & Public Safety,,10.2.2,"Law, advocacy and politics",Law and Legal Services,Crime Prevention & Public Safety,7 200
+7230,"Law, advocacy and politics",Rehabilitation of offenders,,10.2.3,"Law, advocacy and politics",Law and Legal Services,Rehabilitation of offenders,7 200
+7240,"Law, advocacy and politics",Victim Support,,10.2.4,"Law, advocacy and politics",Law and Legal Services,Victim Support,7 200
+7250,"Law, advocacy and politics",Consumer Protection associations,,10.2.5,"Law, advocacy and politics",Law and Legal Services,Consumer Protection associations,7 200
+7300,"Law, advocacy and politics",Political Organisations,,10.3,"Law, advocacy and politics",Political Organisations,,7 300
+7310,"Law, advocacy and politics",Political Parties & Organisations,,10.3.1,"Law, advocacy and politics",Political Organisations,Political Parties & Organisations,7 300
+10000,Religious activities,,,6,Religious activities,,,Group 10: Religion
+10100,Religious activities,Religious activities,,6.1,Religious activities,Religious activities,,10 100
+10110,Religious activities,"Congregations, e.g. Churches. Mosques",,6.1.1,Religious activities,Religious activities,"Congregations, e.g. Churches. Mosques",10 100
+10120,Religious activities,Associations of Congregations,,6.1.2,Religious activities,Religious activities,Associations of Congregations,10 100
+11000,"Business and professional associations, unions",,,9,"Business and professional associations, unions",,,"Group 11: Business and Professional Associations, Unions"
+11100,"Business and professional associations, unions","Business and professional associations, unions",,9.1,"Business and professional associations, unions","Business and professional associations, unions",,11 100
+11110,"Business and professional associations, unions",Business Associations,,9.1.1,"Business and professional associations, unions","Business and professional associations, unions",Business Associations,11 100
+11120,"Business and professional associations, unions",Professional Associations,,9.1.2,"Business and professional associations, unions","Business and professional associations, unions",Professional Associations,11 200
+11130,"Business and professional associations, unions",Labour Unions,,9.1.3,"Business and professional associations, unions","Business and professional associations, unions",Labour Unions,11 300
+12000,General Charitable Purposes,,,11,General Charitable Purposes,,,Group 12: Not Elsewhere Classified
+12100,General Charitable Purposes,Not Elsewhere Classified,,11.1,General Charitable Purposes,Not Elsewhere Classified,,12 100
+12999,General Charitable Purposes,Not Known,,999,Not Known,Not Elsewhere Classified,,12 100
