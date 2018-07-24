@@ -20,13 +20,13 @@ SCNPO,SCNPO group,SCNPO field of work,,,,Old SCVO ID,Group,Primary Area of Work,
 2220,Education and research,Student associations,,,,,,,,
 2300,Education and research,Other education,,,,1.3,Education and research,Other Education,,2 300
 2310,Education and research,"Vocational, technical schools",,,,1.3.1,Education and research,Other Education,"Vocational, Technical Schools",2 300
-2320,Education and research,Adult / continuing education,,,,1.3.2,Education and research,Other Education,Adult / Continuing Education,2 300
+2320,Education and research,Adult/continuing education,,,,1.3.2,Education and research,Other Education,Adult / Continuing Education,2 300
 2400,Education and research,Research,,,,1.4,Education and research,Research,,2 400
 2410,Education and research,Medical research,,,,1.4.1,Education and research,Research,Medical Research (in house),2 400
 2420,Education and research,Science & technology,,,,1.4.2,Education and research,Research,Science & Technology,2 400
 2430,Education and research,Social sciences & policy studies,,,,1.4.3,Education and research,Research,Social Sciences & Policy Studies,2 400
 3000,Health care,,,,,2,Health care,,,Group 3: Health
-3100,Health care,Hospitals and rehabilitation,,,,2.1,Health care,Hospitals and Rehabilitation,,3 100
+3100,Health care,,,,,2.1,Health care,Hospitals and Rehabilitation,,3 100
 3110,Health care,Hospitals & rehabilitation,,,,2.1.1,Health care,Hospitals and Rehabilitation,Hospitals & Rehabilitation,3 100
 3200,Health care,Nursing homes,,,,2.2,Health care,Nursing Homes,,3 200
 3300,Health care,Mental health and crisis intervention,,,,2.3,Health care,Mental Health and Crisis Intervention,,3 300
@@ -106,14 +106,14 @@ SCNPO,SCNPO group,SCNPO field of work,,,,Old SCVO ID,Group,Primary Area of Work,
 8310,Philanthropic intermediaries and voluntarism promotion,TSIs,,,,,,,,
 8320,Philanthropic intermediaries and voluntarism promotion,Volunteer centres,,,,,,,,
 10000,Religious activities,,,,,6,Religious activities,,,Group 10: Religion
-10100,Religious activities,Religious activities,,,,6.1,Religious activities,Religious activities,,10 100
+10100,Religious activities,,,,,6.1,Religious activities,Religious activities,,10 100
 10110,Religious activities,"Congregations, e.g. Churches. Mosques",,,,6.1.1,Religious activities,Religious activities,"Congregations, e.g. Churches. Mosques",10 100
 10120,Religious activities,Associations of congregations,,,,6.1.2,Religious activities,Religious activities,Associations of Congregations,10 100
 11000,"Business and professional associations, unions",,,,,9,"Business and professional associations, unions",,,"Group 11: Business and Professional Associations, Unions"
-11100,"Business and professional associations, unions","Business and professional associations, unions",,,,9.1,"Business and professional associations, unions","Business and professional associations, unions",,11 100
+11100,"Business and professional associations, unions",,,,,9.1,"Business and professional associations, unions","Business and professional associations, unions",,11 100
 11110,"Business and professional associations, unions",Business associations,,,,9.1.1,"Business and professional associations, unions","Business and professional associations, unions",Business Associations,11 100
 11120,"Business and professional associations, unions",Professional associations,,,,9.1.2,"Business and professional associations, unions","Business and professional associations, unions",Professional Associations,11 200
 11130,"Business and professional associations, unions",Labour unions,,,,9.1.3,"Business and professional associations, unions","Business and professional associations, unions",Labour Unions,11 300
 12000,General charitable purposes,,,,,11,General Charitable Purposes,,,Group 12: Not Elsewhere Classified
 12100,General charitable purposes,Not elsewhere classified,,,,11.1,General Charitable Purposes,Not Elsewhere Classified,,12 100
-12999,General charitable purposes,Not known,,,,999,Not Known,Not Elsewhere Classified,,12 100
+12999,General charitable purposes,Not known,,,,999,Not known,Not Elsewhere Classified,,12 100
